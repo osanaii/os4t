@@ -30,6 +30,7 @@ spring:
               expose-request-attributes: false
               expose-session-attributes: false
               expose-spring-macro-helpers: false
+
     datasource:
         type: com.alibaba.druid.pool.DruidDataSource
         driverClassName: com.mysql.jdbc.Driver
