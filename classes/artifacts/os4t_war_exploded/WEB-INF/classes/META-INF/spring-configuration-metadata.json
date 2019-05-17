@@ -1,0 +1,28 @@
+{
+  "hints": [],
+  "groups": [
+    {
+      "sourceType": "com.os4t.modules.app.utils.JwtUtils",
+      "name": "os4t.jwt",
+      "type": "com.os4t.modules.app.utils.JwtUtils"
+    }
+  ],
+  "properties": [
+    {
+      "sourceType": "com.os4t.modules.app.utils.JwtUtils",
+      "defaultValue": 0,
+      "name": "os4t.jwt.expire",
+      "type": "java.lang.Long"
+    },
+    {
+      "sourceType": "com.os4t.modules.app.utils.JwtUtils",
+      "name": "os4t.jwt.header",
+      "type": "java.lang.String"
+    },
+    {
+      "sourceType": "com.os4t.modules.app.utils.JwtUtils",
+      "name": "os4t.jwt.secret",
+      "type": "java.lang.String"
+    }
+  ]
+}
